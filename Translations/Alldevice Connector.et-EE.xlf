@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="et-EE" original="Alldevice Connector.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 914479610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice Service Task Lines</source>
+          <target>Alldevice hooldustööde kasutatud varuosade read</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alld. Service Task Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 914479610 - Field 3155936699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task Id</source>
+          <target>Hooldustöö Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alld. Service Task Lines - Field CPC Alldevice Task Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 914479610 - Field 446207239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Kood</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alld. Service Task Lines - Field CPC Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 914479610 - Field 2066008135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alld. Service Task Lines - Field CPC Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 914479610 - Field 402805473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nimi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alld. Service Task Lines - Field CPC Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 914479610 - Field 1984130869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Kogus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alld. Service Task Lines - Field CPC Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 1403801591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Information</source>
+          <target>Lisainformatsioon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC Additional Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 3815460842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Prefix</source>
+          <target>URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC Address Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 1909183083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Request Sucess</source>
+          <target>API päring edukas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC API Request Sucess - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 138217155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Time</source>
+          <target>Kirje sisestuse aeg</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC Entry Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 674656825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error From BC</source>
+          <target>Veateade BC-st</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC Error From BC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 1035366293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response JSON Data</source>
+          <target>Vastuse JSON andmed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC Response JSON Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 2772723024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent JSON Data</source>
+          <target>Saadetud JSON andmed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field CPC Sent JSON Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1473368314 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Kirje nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Logs - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API Setup</source>
+          <target>Alldevice API Seadistus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 787911642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API Key</source>
+          <target>Alldevice API Võti</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Alldevice API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 3764346538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API Password</source>
+          <target>Alldevice API Parool</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Alldevice API Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 2449272558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API URL</source>
+          <target>Alldevice API URL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Alldevice API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 3203051713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API Username</source>
+          <target>Alldevice API Kasutajanimi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Alldevice API Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 458362990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Spare Part Categories List Prefix</source>
+          <target>Varuosa kategooria kogumi ressursi API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Get Categories List Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 1080011069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Spare Parts Manufacturers List Prefix</source>
+          <target>Varuosa tootja kogumi ressursi API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Get Manuf. List Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 3983787832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Service Task List Prefix</source>
+          <target>Hooldustööde kogumi ressursi API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Get Service Task List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 1035744302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Spare Parts List Prefix</source>
+          <target>Varuosade kogumi ressuri API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Get Spares List Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 966062118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Used Spares Parts List Prefix</source>
+          <target>Hooldustöödes kasutatud varuosade kogumi ressursi API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Get Used Spares List Pref. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 894760085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Main Spare Part Category</source>
+          <target>Varuosa põhikategooria</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Main Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 2649748049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spare Part Item Template</source>
+          <target>Varuosa mall</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Spare Part Item Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 3999353247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update or add Spare Part Category</source>
+          <target>Uuenda või lisa uus varuosa kategooria API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Update or add Cat. Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 3275081431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update or add Spare Part Manufacturer Prefix</source>
+          <target>Uuenda või lisa uus varuosa tootja API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Update or add manuf. Pref. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 2366524708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update or Add Spare Part</source>
+          <target>Uuenda või lisa varuosa API URL-i liide</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field CPC Update or Add Spare Prefix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 121639522 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primaarvõti</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice API Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice Posted Tasks</source>
+          <target>Alldevice konteeritud hooldustööd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 4111028627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed Date</source>
+          <target>Lõpetamise kuupäev</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Completed Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 3603953603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created On</source>
+          <target>Loodud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Created On - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 2823637353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task Name</source>
+          <target>Hooldustöö nimi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Device Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 2848317920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPC Device Status</source>
+          <target>Seadme staatus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Device Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 575102905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Completed</source>
+          <target>On lõpetatud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Is Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 3969575869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Description</source>
+          <target>Hooldustöö kirjeldus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Service Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 2571788654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Name</source>
+          <target>Hooldustöö nimi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Service Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 1557813684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task Id</source>
+          <target>Hooldustöö Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Task Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114385310 - Field 116342499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task Status</source>
+          <target>Hooldustöö staatus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CPC Alldevice Service Tasks - Field CPC Task Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3116135017 - NamedType 4221495597" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Category %1 synced to BC</source>
+          <target>Kategooria %1 sünkroniseeritud BC-sse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Categories - NamedType AddedItemCatToBcLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3116135017 - NamedType 3813852635" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error from Alldevice Categories %1</source>
+          <target>Veateade Alldevice kategooriast %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Categories - NamedType AlldeviceStockError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3116135017 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Categories......#1######################\</source>
+          <target>Kategooriate töötlemine......#1######################\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Categories - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 839849290 - NamedType 263630000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Manufacturer %1 synced to BC</source>
+          <target>Tootja %1 sünkroniseeriturd BC-sse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Manufacturer - NamedType AddedItemManufToBcLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 839849290 - NamedType 3422609892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error from Alldevice Manufacturers %1</source>
+          <target>Veateade Alldevice tootjast %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Manufacturer - NamedType AlldeviceManufError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 839849290 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Manufacturers......#1######################\</source>
+          <target>Tootjate töötlemine......#1######################\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Manufacturer - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4057814121 - NamedType 3412708671" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 synced to BC</source>
+          <target>Toode %1 sünkroniseeritud BC-sse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Spares - NamedType AddedItemToBcLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4057814121 - NamedType 1963735664" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error from Alldevice Item %1</source>
+          <target>Veateade Alldevice varuosast %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Spares - NamedType AlldeviceItemError</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4057814121 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Items......#1######################\</source>
+          <target>Varuosade töötlemine......#1######################\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Spares - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 518769257 - NamedType 2779639592" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Service Tasks from Alldevice......#1######################\</source>
+          <target>Hooldustööde töötlemine Alldevicest......#1######################\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CPC Alldevice Tasks - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1473368314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API Logs</source>
+          <target>Alldevice API logid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Logs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1473368314 - Action 1466086666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Response JSON</source>
+          <target>Vaata vastuse JSON-i</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Logs - Action ViewResponseJson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1473368314 - Action 3822417819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Sent JSON</source>
+          <target>Vaata saadetud JSON-i</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Logs - Action ViewSentJson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice API Setup</source>
+          <target>Alldevice API Seadistus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Control 643899375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entities</source>
+          <target>Olemid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Control Entities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Control 2116949589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Tasks</source>
+          <target>Hooldustööd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Control Service Tasks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Control 1436843563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spare Parts</source>
+          <target>Varuosad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Control Spare Parts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Control 1303761505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spare Parts Categories</source>
+          <target>Varuosade kategooriad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Control Spare Parts Categories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Control 4147713615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spare Parts Manufacturers</source>
+          <target>Varuosade tootjad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Control Spare Parts Manufacturers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>Üldine</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Action 2774189004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Spare Part Categories</source>
+          <target>Sünkroniseeri varuosade kategooriad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Action GetCategories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Action 3421471526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Spare Part Manufacturers</source>
+          <target>Sünkroniseeri varuosade tootjad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Action GetManufacturers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 121639522 - Action 3856928140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Spare Parts</source>
+          <target>Sünkroniseeri varuosad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice API Setup - Action GetSpares - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3327184735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alldevice Service Tasks List</source>
+          <target>Alldevice hooldustööd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice Tasks List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3327184735 - Action 2722768050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Item Jrnl. Lines</source>
+          <target>Moodusta kaubažurnaali read</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CPC Alldevice Tasks List - Action CreateItemJrnlLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Service Task Item Journal Lines</source>
+          <target>Moodusta hooldustööde varusoa kaubažurnaali read</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - NamedType 234497962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Posting Date is empty.</source>
+          <target>Konteerimiskuupäev on tühi.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - NamedType PostingDateIsEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template name is blank.</source>
+          <target>Kaubažurnaali malli nimi on tühi.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Batch name is blank.</source>
+          <target>Kaubažurnaali partii nimi on tühi.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Valikud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 1042671269 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the journal batch, a personalized journal layout, that the journal is based on.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control BatchName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Kaubažurnaali tööleht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 1594611733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document date that will be inserted on the created records.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control DocumentDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 1594611733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Dokumendi kuupäev</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control DocumentDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 3117834186 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the default document number of the journal line.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control DocumentNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 3117834186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Dokumendi Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control DocumentNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 917963169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry type.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control EntryTypes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 917963169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <target>Kirje tüüp</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control EntryTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 917963169 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase,Sale,Positive Adjmt.,Negative Adjmt.</source>
+          <target>Ost,Müük,Positive Adjmt.,Negative Adjmt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control EntryTypes - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 1972515819 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal template that the item journal is based on.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control JournalTemplate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 1972515819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template</source>
+          <target>Kaubažurnaali mall</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control JournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 3037438984 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date for the posting of this batch job. By default, the working date is entered, but you can change it.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control PostingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Konteerimis kuupäev</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 3618478127 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the standard item journal that the batch job uses.</source>
+          <target></target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control TemplateCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1368813719 - Control 3618478127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard Item Journal</source>
+          <target>Standard kaubažurnaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CPC Alldevice Item Jour. Lines - Control TemplateCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 401528010 - Field 2131492872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1487222247">
+          <source>Alldevice Category Id</source>
+          <target>Alldevice kategooria Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext 79663 - Field CPC Alldevice Category Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 401528010 - Field 2243818362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1487222247">
+          <source>Last Synced To Alldevice</source>
+          <target>Viimati sünkroniseeritud Alldevice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext 79663 - Field CPC Last Synced To Alldevice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 987703263 - Field 1195960105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Alldevice Product Id</source>
+          <target>Alldevice varuosa Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext79660 - Field CPC Alldevice Product Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 987703263 - Field 1777303464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Alldevice Spare</source>
+          <target>Alldevice varuosa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext79660 - Field CPC Alldevice Spare - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 987703263 - Field 2243818362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Last Synced To Alldevice</source>
+          <target>Viimati sünkroniseeritud Alldevice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext79660 - Field CPC Last Synced To Alldevice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2263096497 - Field 1777303464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 463323981">
+          <source>Alldevice Spare</source>
+          <target>Alldevice varuosa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext79662 - Field CPC Alldevice Spare - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3538489731 - Field 761019917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3647128553">
+          <source>Alldevice Manufacturer Id</source>
+          <target>Alldevice tootja Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext79664 - Field CPC Alldevice Manufacturer Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3538489731 - Field 2243818362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3647128553">
+          <source>Last Synced To Alldevice</source>
+          <target>Viimati sünkroniseeritud Alldevice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Tab-Ext79664 - Field CPC Last Synced To Alldevice - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
